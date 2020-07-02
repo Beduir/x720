@@ -1,1 +1,11 @@
-
+{
+  "domain": "x720",
+  "name": "X720 Power Sensor",
+  "documentation": "http://www.raspberrypiwiki.com/index.php/X720",
+  "dependencies": [],
+  "codeowners": [],
+  "requirements": [
+    "i2csense==0.0.4",
+    "smbus-cffi==0.5.1"
+  ]
+}
