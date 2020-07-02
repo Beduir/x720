@@ -3,5 +3,5 @@
 configuration.yaml:
 
 > sensor:
-  - platform: x720
-    name: 'RPi Battery'
+>  - platform: x720
+>    name: 'RPi Battery'
